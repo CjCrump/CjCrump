@@ -1,26 +1,25 @@
 # Hi, I'm CJ
 
-Full stack JavaScript developer who also builds and maintains the infrastructure that code runs on. I like systems: the app layer, the server it lives on, the network it talks to. Most people stop at one of those. I want all three.
+I sit between the customer and the code. I sit down with a business owner, find where the work actually breaks, show them a fix they can click through, then build it and keep it running.
 
-## What I do
+I run **Chance IT Studio LLC**, building flat-rate custom software for small businesses in real estate and the trades. I handle the full cycle myself: discovery, scoping, build, deployment, onboarding and support.
 
-I run **ChanceIT Studio LLC**, a solo dev shop building flat-rate custom software for small businesses, mostly in real estate and trades/construction. No templates. I build what the client actually needs, host it myself, and maintain it after launch.
+## Shipped
 
-I'm also actively looking for a full time remote role. Full stack JavaScript is my strongest lane (React, Express, Node, Prisma, PostgreSQL), and I'm just as interested in DevOps and systems work: Docker, self-hosted infrastructure, ZFS, CI/CD, the whole stack from code to server to network.
+- **SmokeSignal Dispatch**: dispatch board and crew SMS for trades businesses. Runs a 98-tradesman roster. WebSockets, Supabase, Twilio, Netlify. [smokesignaldispatch.com](https://smokesignaldispatch.com/landing)
+- **TCMVP**: transaction management for real estate coordinators, built with a working TC as design partner. Cloudflare Workers, Supabase, Stripe. [tcmvp.com](https://tcmvp.com)
+- **Twin Rivers Concrete**: client site with SEO, contact form and a gallery fed from their Facebook. [twinriversconcrete.com](https://twinriversconcrete.com)
 
-## Currently building
+## Infrastructure
 
-- **CashBearing**: a goal-first budgeting app, both a real product and a structured learning project (React, Express, Prisma, PostgreSQL)
-- **Homelab**: a self-hosted fleet doubling as a live DevOps portfolio (Docker, ZFS, Gitea, reverse proxying, backups, hardening). Pinned below.
+My [homelab](https://github.com/CjCrump/homelab) is a multi-node self-hosted network: ZFS storage, Docker Compose services, Caddy, Tailscale, Ansible, and decision records for the choices behind it.
 
-## Pinned projects
+## Background
 
-See pinned repos for live examples of client work and personal builds.
+Four years of AT&T retail sales and tech support, then six years running concrete crews as a foreman. I know how trades businesses run because I've worked on the job sites.
 
-## Get in touch
+## Looking for
 
-- Email: chance@chanceitstudio.com
-- LinkedIn: [link] (in progress, bear with me)
-- Or just open an issue or DM here
+Solutions engineer, sales engineer, implementation or customer engineer roles. St. Louis or remote.
 
-I'm always up for a conversation about systems, self-hosting, or how a small dev shop can hold its own against templated agency work.
+[chancecrump.dev](https://chancecrump.dev) · [LinkedIn](https://www.linkedin.com/in/chance-crump) · chance@chanceitstudio.com
